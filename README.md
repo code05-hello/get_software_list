@@ -11,3 +11,5 @@ How to use?
 python get_me_linux_software.py
 
 That's it.
+
+A rockstar would always give star to this Repo? If you are, then give one star!
