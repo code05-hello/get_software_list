@@ -10,6 +10,9 @@ How to use?
 
 python get_me_linux_software.py
 
+*****OUTPUT******
+![Alt text](output.jpg?raw=true "CODE_OUTPUT")
+
 That's it.
 
 A rockstar would always give star to this Repo? If you are, then give one star!
