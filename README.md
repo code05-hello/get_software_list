@@ -2,13 +2,27 @@
 There are two scripts here.
 
 One will get you list of all software in Windows and other one will get you the list of all software in Linux. Have Fun!
-  1. get_me_linux_software.py
+  1. get_me_linux_software.sh
   2. get_me_windows_software.py
   
   
 How to use?
 
-python get_me_linux_software.py
+For Linux
+
+command :
+
+		sh get_me_linux_software.sh
+
+		OR
+
+		bash get_me_linux_software.sh
+
+For Windows 
+
+command :  
+
+				python get_me_windows_software.py
 
 *****OUTPUT******
 ![Alt text](output.jpg?raw=true "CODE_OUTPUT")
