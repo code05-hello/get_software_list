@@ -25,7 +25,7 @@ command :
 				python get_me_windows_software.py
 
 *****OUTPUT******
-![Alt text](output.jpg?raw=true "CODE_OUTPUT")
+![Alt text](output.JPG?raw=true "CODE_OUTPUT")
 
 That's it.
 
